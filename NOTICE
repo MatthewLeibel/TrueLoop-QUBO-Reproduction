@@ -1,0 +1,5 @@
+The reproduction scripts, plant models, baselines, and result records in this
+repository are MIT licensed. The TrueLoop runtime they drive is proprietary
+software accessed as a hosted service (or, for large-n cells, as a licensed
+offline build); it is not included in, nor derivable from, this repository.
+Evaluation keys: https://trueloopcompute.com
